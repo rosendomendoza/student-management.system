@@ -1,5 +1,5 @@
 # what is thos project?
-This app implement a Student Management System 
+This app implement a Student Management System GUI
 with the basic operation:
 1. Add
 2. Edit
